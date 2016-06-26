@@ -30,4 +30,5 @@ alias lm='ls -t1 | head -n1'    # last modified file
 alias mkdir='mkdir -pv'
 alias py2='python2'
 alias py3='python3'
+alias python='python3'
 alias taill='tail -f `lm`'      # tail last modified file
