@@ -10,3 +10,6 @@ alias gcob='git checkout -b'
 alias gfr='git fetch; git rebase'
 alias gp='git push'
 alias gs='git status'
+
+# go
+alias cdg='cd ~/go/src'
