@@ -13,3 +13,8 @@ alias gs='git status'
 
 # go
 alias cdg='cd ~/go/src'
+
+# kubectl
+alias k='kubectl'
+alias kg='kubectl get'
+alias kd='kubectl describe'
