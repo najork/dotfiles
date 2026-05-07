@@ -11,8 +11,8 @@ alias gfr='git fetch; git rebase'
 alias gp='git push'
 alias gs='git status'
 
-# go
-alias cdg='cd ~/go/src'
+# code
+alias c='cd ~/code'
 
 # kubectl
 alias k='kubectl'
